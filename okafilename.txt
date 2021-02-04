@@ -1,0 +1,7 @@
+git status
+on branch master
+nothing to commit,working tree clean
+
+git branch
+git remote
+qiscet
